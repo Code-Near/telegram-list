@@ -348,6 +348,7 @@
 ##### Разные и интересные каналы
 * [The After Times](https://t.me/theaftertimes) — Несерьезный дайджест IT. Паста, мысли, критика.
 * [#All-im-One Person](https://t.me/themarfa) — канал о технологиях, стартапах, автоматизации, лайфхаках и продуктивности. Экспертные советы по Evernote, Google и многому другому.
+* [#Infinity Music](https://t.me/infinity_music) — Только лучшая електронная музыка!
 * [My Way](https://t.me/mywayk) — Канал о продуктивности, фронтенде и дизайне
 * [Robotics](https://t.me/robotics_channel) — Робототехника, нейросети, киборги (свежие новости, обзоры разработок и интересные статьи).
 * [Product-Shmoduct](https://t.me/productshmoduct) — Диджитал продукты и продакт менеджмент
